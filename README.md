@@ -11,7 +11,7 @@ It combines practice, certifications, and projects.
 
 ## 📂 Projects
 - **[Report Card Printer](projects/report-card-printer/README.md)** → beginner project practicing Python data types (`str`, `bool`, `int`, `float`).  
-- **[Employee Card Workshop](projects/employee-card-workshop/README.md)** → beginner Python exercise that shows how to build an employee card using strings and slicing.
+- **[Employee Card Workshop](projects/employee-card-Workshop/README.md)** → beginner Python exercise that shows how to build an employee card using strings and slicing.
 
 ## 📈 Progression
 - Step 0: Repo setup ✅  
