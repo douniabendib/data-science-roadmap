@@ -12,7 +12,7 @@ It combines practice, certifications, and projects.
 ## 📂 Projects
 - **[Report Card Printer](projects/report-card-printer/README.md)** → beginner project practicing Python data types (`str`, `bool`, `int`, `float`).  
 - **[Employee Card Workshop](projects/employee-card-Workshop/README.md)** → beginner Python exercise that shows how to build an employee card using strings and slicing.
-- **[Dinner Bill Splitter](projects/workshop-bill-splitter/README.md)** → biginner python project calculate the total restaurant bill, add a tip, and split the cost among friends.
+- **[Workshop Bill Splitter](projects/workshop-bill-splitter/README.md)** → biginner python project calculate the total restaurant bill, add a tip, and split the cost among friends.
 ## 📈 Progression
 - Step 0: Repo setup ✅  
 - Step 1: AI Skills Fest badge ✅  
