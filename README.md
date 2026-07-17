@@ -11,8 +11,10 @@ It combines practice, certifications, and projects.
 
 ## 📂 Projects
 - **[Report Card Printer](projects/report-card-printer/README.md)** → beginner project practicing Python data types (`str`, `bool`, `int`, `float`).  
-- **[Employee Card Workshop](projects/employee-card-Workshop/README.md)** → beginner Python exercise that shows how to build an employee card using strings and slicing.
-- **[Workshop Bill Splitter](projects/workshop-bill-splitter/README.md)** → biginner python project calculate the total restaurant bill, add a tip, and split the cost among friends.
+- **[Employee Card Workshop](projects/employee-card-Workshop/README.md)** → beginner python exercise that shows how to build an employee card using strings and slicing.
+- **[Workshop Bill Splitter](projects/workshop-bill-splitter/README.md)** → beginner python project calculate the total restaurant bill, add a tip, and split the cost among friends.
+- **[Ticket Booking System](projects/Ticket-Booking-System/REAME.md)** → beginner python script that simulates booking a movie ticket with conditions for age, membership, seat type, and show time.
+
 ## 📈 Progression
 - Step 0: Repo setup ✅  
 - Step 1: AI Skills Fest badge ✅  
