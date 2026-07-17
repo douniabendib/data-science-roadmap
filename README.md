@@ -14,6 +14,8 @@ It combines practice, certifications, and projects.
 - **[Employee Card Workshop](projects/employee-card-Workshop/README.md)** → beginner python exercise that shows how to build an employee card using strings and slicing.
 - **[Workshop Bill Splitter](projects/workshop-bill-splitter/README.md)** → beginner python project calculate the total restaurant bill, add a tip, and split the cost among friends.
 - **[Ticket Booking System](projects/Ticket-Booking-System/REAME.md)** → beginner python script that simulates booking a movie ticket with conditions for age, membership, seat type, and show time.
+- **[Build a Travel Weather Planner](projects/build-a-travel-weather-planner/README.md)** → beginner python lab that uses conditional statements to decide if commuting is possible based on distance, weather, and available transport.
+
 
 ## 📈 Progression
 - Step 0: Repo setup ✅  
