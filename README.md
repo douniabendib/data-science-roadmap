@@ -16,7 +16,7 @@ It combines practice, certifications, and projects.
 - **[Ticket Booking System](projects/Ticket-Booking-System/REAME.md)** → beginner python script that simulates booking a movie ticket with conditions for age, membership, seat type, and show time.
 - **[Build a Travel Weather Planner](projects/build-a-travel-weather-planner/README.md)** → beginner python lab that uses conditional statements to decide if commuting is possible based on distance, weather, and available transport.
 - **[Apply Discount Function](projects/Apply-Discount-Function/README.md)** → beginner Python lab that calculates the final price of an item after applying a percentage discount.
-
+- **[Caesar Cipher](projects/Build-a-Caesar-cipher/README.md)** → Python lab that implements a Caesar cipher for encrypting and decrypting text using character translation
 ## 📈 Progression
 - Step 0: Repo setup ✅  
 - Step 1: AI Skills Fest badge ✅  
